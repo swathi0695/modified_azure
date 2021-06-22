@@ -1,6 +1,6 @@
 ---
-ref: modified_azure
-name : Modified_Azure
+ref: azure_modified
+name : Azure_Modified
 description : Pack for rectifying the certificate issue
 keywords:
   - Azure
